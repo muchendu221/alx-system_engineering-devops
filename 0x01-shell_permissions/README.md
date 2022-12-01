@@ -8,3 +8,4 @@ Adds execution permission to the owner of hello
 Add execute permission to owner and group owner and read to all other users
 Add execution permission to owner, group owner and the other users
 No permission owner and group owner but all permissions to other users
+This adds John Doe permission to hello file
