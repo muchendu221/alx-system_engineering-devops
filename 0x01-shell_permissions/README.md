@@ -10,3 +10,4 @@ Add execution permission to owner, group owner and the other users
 No permission owner and group owner but all permissions to other users
 This adds John Doe permission to hello file
 Copy permissions from olleh to hello
+Change directory permissions
