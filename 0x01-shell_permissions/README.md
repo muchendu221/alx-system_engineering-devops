@@ -5,3 +5,4 @@ This script list all the groups the current user is part of
 This script changes the owner of file hello to betty
 This script creates a new file called hello
 Adds execution permission to the owner of hello
+Add execute permission to owner and group owner and read to all other users
