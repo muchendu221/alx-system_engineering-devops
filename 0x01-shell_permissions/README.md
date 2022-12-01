@@ -13,3 +13,4 @@ Copy permissions from olleh to hello
 Change directory permissions
 Make dir with permissions
 Change group to school for file hello
+Change owner and group
