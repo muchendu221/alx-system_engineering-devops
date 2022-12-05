@@ -4,3 +4,4 @@ Display contents of hellofile
 Displays contents of 2 files
 Prints 10 lastline of /etc/passwd
 Display first 10 lines of /etc/passwd
+Print third line of iacta
